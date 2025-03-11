@@ -3,8 +3,8 @@
 ## About Me
 
 - 🌱 I’m currently learning and working on various programming projects.
-- 💻 I have experience with languages like Python, JavaScript, and more.
-- 📫 How to reach me: wong.wai.jit.ryan@u.nus.edu 
+- 💻 I have experience with languages like Python, Java, R and more.
+- 📫 How to reach me: wong.wai.jit.ryan@u.nus.edu or @Pr1vate_Ryan on telegram
 - ⚡ Fun fact: I love exploring new technologies and solving challenging problems.
 
 ## GitHub Stats
