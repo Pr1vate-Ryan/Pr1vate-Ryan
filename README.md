@@ -17,16 +17,6 @@
 
 ## Projects
 
-### Project 1
-- Description: Brief description of the project.
-- Technologies: Python, Flask, etc.
-- [Repository Link](https://github.com/Pr1vate-Ryan/project1)
-
-### Project 2
-- Description: Brief description of the project.
-- Technologies: JavaScript, React, etc.
-- [Repository Link](https://github.com/Pr1vate-Ryan/project2)
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in//wong-wai-jit-ryan-241562218)
